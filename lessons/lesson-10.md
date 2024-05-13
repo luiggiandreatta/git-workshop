@@ -27,3 +27,4 @@ Existem diversos artigos na internet que tentam auxiliar na construção e revis
 Agora que concluímos todas aulas do workshop que tal abrir um pull request do seu fork na branch `lesson-10` para o repositório original compartilhando a conclusão com outras pessoas?
 
 Dica: podemos usar o rebase aprendido na aula 4 para trazer as informações da branch `lesson-9` pra branch atual, fazer o push e abrir o PR.
+
